@@ -6,3 +6,6 @@ class Alfabeto():
 print(objeto.num2)
 print("Hola wey")
 
+print("No mames, eres la verga, saber usar esto ", 2+2)
+print("No mames, eres la verga, saber usar esto ", 2+2)
+print("No mames, eres la verga, saber usar esto ", 2+2)
